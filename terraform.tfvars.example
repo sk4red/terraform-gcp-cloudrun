@@ -1,0 +1,9 @@
+project = "blazorshop-02102002"
+
+location = "europe-west2"
+
+gcr_region = "eu"
+
+deploy_db = true
+
+gcs_bucket = "tf-blazorshop"
