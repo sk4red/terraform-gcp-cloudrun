@@ -5,7 +5,7 @@ more about it on the associated blog post - "[Deploy a Serverless CI/CD Pipeline
 
 
 
-![GCP Serverless CI/CD Pipeline Architecture](https://github.com/sk4red/terraform-gcp-cloudrun/tree/master/docs/gcp-serverless-cicd-pipeline.png)
+![GCP Serverless CI/CD Pipeline Architecture](https://github.com/sk4red/terraform-gcp-cloudrun/blob/master/docs/gcp-serverless-cicd-pipeline.png)
 
 ## Features
 
